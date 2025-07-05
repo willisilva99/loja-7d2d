@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eihwaz.de>
-    <entry>
-        <link>https://www.anarquia-z.com/</link>
-        <date>2025-07-04 21:20:00Z</date>
-        <title>Entre no Discord</title>
-        <text></text><imagerelpath></imagerelpath>
-    </entry>
-</eihwaz.de>
+<news>
+    <entry link="https://www.anarquia-z.com/"
+           text="Acesse a Loja"
+           date="2025-07-04T21:20:00Z" />
+</news>
