@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<news>
-    <entry link="https://discord.gg/adrn82wrfb"
-           text="Entre no Discord"
-           date="2025-07-04T21:20:00Z" />
-</news>
+<eihwaz.de>
+	<entry>
+		<link>https://discord.gg/adrn82wrfb</link>
+		<date></date>
+		<title></title>
+		<text></text>
+		<imagerelpath></imagerelpath>
+	</entry>
+</eihwaz.de>
